@@ -1,16 +1,35 @@
-### Hi there 👋
+# Hello, I'm Mariem Arif! 👋
 
-<!--
-**ArifMariem/ArifMariem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about data analysis, software development and machine learning. Here, you'll find a mix of personal projects, contributions to open source, and more.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Studied Computer science.
+- 📫 Reach me at mariemarif98@gmail.com
+
+## Skills
+
+- 💻 Programming Languages: python ,R, java,SQL , C and C# ,JavaScript
+- 🛠️ Technologies: [List of Technologies/Frameworks]
+- 📊 Data: Data Analysis/Data visualization/Data transformation
+- 🌐 **Backend Technologies:**
+  - FastAPI
+  - Flask
+  - Django
+  - Spring Boot
+- 🛢️ **Databases:**
+  - MongoDB
+  - MySQL
+  - PlSQL
+- ⚙️ **DevOps and Tools:**
+  - Docker
+  - Nexus
+  - Grafana
+  - Sonarqube
+  - Jenkins
+  - Git
+
+
+
+
+Feel free to explore my repositories and get in touch! I'm always open to collaboration and new opportunities.
