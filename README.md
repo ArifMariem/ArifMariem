@@ -10,7 +10,6 @@ Welcome to my GitHub profile! I'm passionate about data analysis, software devel
 ## Skills
 
 - 💻 Programming Languages: python ,R, java,SQL , C and C# ,JavaScript
-- 🛠️ Technologies: [List of Technologies/Frameworks]
 - 📊 Data: Data Analysis/Data visualization/Data transformation
 - 🌐 **Backend Technologies:**
   - FastAPI
